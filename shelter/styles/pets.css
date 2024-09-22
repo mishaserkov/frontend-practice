@@ -171,6 +171,7 @@ nav a.active {
     align-items: center;
     gap: 27px;
     border-radius: 9px;
+    cursor:pointer;
 }
 
 .our-friends-card-button {

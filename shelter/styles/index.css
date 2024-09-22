@@ -283,6 +283,7 @@ a.button-one-link {
     align-items: center;
     gap: 27px;
     border-radius: 9px;
+    cursor: pointer;
 }
 
 .our-pets-card-button {
