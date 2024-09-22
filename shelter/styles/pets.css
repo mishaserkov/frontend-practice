@@ -223,12 +223,6 @@ nav a.active {
     background-color: #F6F6F6;
 }
 
-/* .our-friends-button:hover {
-    background-color:#FDDCC4;
-    border: 2px solid #FDDCC4;
-    transition: 0.5s ease-out;
-} */
-
 .our-friends-button.active:hover {
     cursor: pointer;
     background-color:#FDDCC4;
@@ -241,7 +235,7 @@ nav a.active {
     border-radius: 100px;
 }
 
-.our-friends-button p {
+.our-friends-button {
     font-family: Georgia, serif;
     font-size: 20px;
     font-weight: 400;
