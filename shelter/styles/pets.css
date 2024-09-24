@@ -230,7 +230,7 @@ nav a.active {
     transition: 0.3s ease-in-out;
 }
 
-.our-friends-button.disabled {
+.our-friends-button:disabled {
     border: 2px solid #CDCDCD;
     border-radius: 100px;
 }
